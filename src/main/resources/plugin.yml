@@ -1,0 +1,6 @@
+name: PacketInventory
+version: '${version}'
+main: fr.hokib.packetinventory.PacketInventory
+api-version: '1.20'
+depend:
+  - ProtocolLib
